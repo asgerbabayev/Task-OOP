@@ -1,0 +1,7 @@
+D:\source\repos\Task_Solution_OOP\Task_Solution_OOP\bin\Debug\Task_Solution_OOP.exe.config
+D:\source\repos\Task_Solution_OOP\Task_Solution_OOP\bin\Debug\Task_Solution_OOP.exe
+D:\source\repos\Task_Solution_OOP\Task_Solution_OOP\bin\Debug\Task_Solution_OOP.pdb
+D:\source\repos\Task_Solution_OOP\Task_Solution_OOP\obj\Debug\Task_Solution_OOP.csprojAssemblyReference.cache
+D:\source\repos\Task_Solution_OOP\Task_Solution_OOP\obj\Debug\Task_Solution_OOP.csproj.CoreCompileInputs.cache
+D:\source\repos\Task_Solution_OOP\Task_Solution_OOP\obj\Debug\Task_Solution_OOP.exe
+D:\source\repos\Task_Solution_OOP\Task_Solution_OOP\obj\Debug\Task_Solution_OOP.pdb
